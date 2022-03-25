@@ -1,0 +1,47 @@
+body {
+    background-color: #EAEAEA;
+}
+
+hr {
+    border-color: #E45826;
+    border-style: dotted none none none;
+    border-width: 12px;
+    height: 0px;
+    width: 75px;
+}
+
+p {
+    color: #1B1A17;
+    font-size: 24px;
+}
+
+tr {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FF2E63;
+}
+
+a {
+   font-size: 24px;
+}
+
+h2 {
+    color:#FF2E63;
+    font-size: 24px;
+    text-align: center;
+}
+
+h3 {
+    color:#E45826;
+    font-size: 24px;
+    text-align: center;
+}
+
+li {
+    font-size:24px;
+}
+
+h1 {
+    color:#E45826
+}
+
